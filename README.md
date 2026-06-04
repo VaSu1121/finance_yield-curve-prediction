@@ -14,4 +14,4 @@ This project implements interest rate models and yield curve prediction techniqu
 - Pandas
 - SciPy
 - Matplotlib
-- Jupyter Notebook
+
